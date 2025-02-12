@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Prajapati-santosh
-- 👀 I’m interested in Full stack developement ...
-- 🌱 I’m currently learning selenium using python with pytest framework
-- 💞️ I’m looking to collaborate on automation testing
-- 📫 How to reach me santoshprajapati@duck.com
+- 👋 Hi, I’m @Prajapati-santosh Welcome to my github there are few things interseting coming up !!
+- 💞️ I’m looking to collaborate on Web specifically MERN stack
+- 📫 you can reach me santoshprajapati@duck.com
 
 <!---
 Prajapati-santosh/Prajapati-santosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
