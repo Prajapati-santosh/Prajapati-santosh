@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prajapati-santosh Welcome to my github there are few things interseting coming up !!
 - 💞️ I’m looking to collaborate on Web specifically MERN stack
 - 📫 you can reach me santoshprajapati@duck.com
-
+- im open for contributions ro my projects you can always reach out to me 
 <!---
 Prajapati-santosh/Prajapati-santosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
